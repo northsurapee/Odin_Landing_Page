@@ -1,7 +1,7 @@
 # Odin_Landing_Page
 Plain styled site. Practicing my CSS skills. Yet to implement media query responsiveness. 
 
-## _[View the site](https://northsurapee.github.io/Odin_Landing_Page/)_
+**Live site:** https://northsurapee.github.io/Odin_Landing_Page/
 
 **Project brief:** implement a website from a given design, colors and fonts.
 
