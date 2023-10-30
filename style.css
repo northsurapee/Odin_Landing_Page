@@ -55,7 +55,7 @@ body {
     flex-direction: column;
     gap: 18px;
 }
-.main-info .title {
+.main-info h1 {
     /*styling*/
     font-size: 48px;
     font-weight: 900;
@@ -65,7 +65,7 @@ body {
 .header .links {
     /*styling*/
     font-size: 18px;
-    color: #E5E7EB;
+    color: #E5E7Eb;
 }
 .main-info button {
     /*styling*/
@@ -92,3 +92,50 @@ body {
     color: #F9FAF8;
 }
 
+/*Section-2*/
+.section-2 {
+    /*positioning*/
+    padding-top: 56px;
+    padding-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 56px;
+}
+.info {
+    /*positioning*/
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 36px;
+}
+.block {
+    /*positioning*/
+    width: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+.block .image {
+    /*positioning*/
+    width: 160px;
+    height: 160px;
+    /*styling*/
+    border-radius: 24px;
+    border: 4px solid #3882F6;
+}
+h2 {
+    /*styling*/
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+.block .subtext {
+    /*styling*/
+    font-size: 18px;
+    color: #808080;
+    text-align: center; 
+}
