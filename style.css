@@ -165,3 +165,44 @@ h2 {
     font-size: 24px;
     font-weight: bold;
 }
+
+/*Section-4*/
+.section-4 {
+    padding: 72px 200px;
+}
+
+.container {
+    padding: 56px 72px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    /*styling*/
+    background-color: #3882F6;
+    border-radius: 16px;
+    border: 4px solid #3882F6;
+}
+
+strong {
+    color: white;
+    font-size: 24px;
+    font-weight: 900px;
+}
+
+.container .subtext {
+    color: white;
+    font-size: 18px;
+}
+
+.container button {
+    /*styling*/
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #3882F6;
+    width: 100px;
+    border: 2px solid white;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+}
