@@ -139,3 +139,29 @@ h2 {
     color: #808080;
     text-align: center; 
 }
+
+/*Section-3*/
+.section-3 {
+    /*positioning*/
+    padding: 96px 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*styling*/
+    background-color: #E5E7Eb;
+}
+.quote {
+    /*styling*/
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+.author {
+    /*positioning*/
+    align-self: flex-end;
+    /*styling*/
+    font-size: 24px;
+    font-weight: bold;
+}
